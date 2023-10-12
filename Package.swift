@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NeuraML",
-            url: "https://github.com/neuraml/NeuraMLSwiftFramework/releases/download/v0.0.2/NeuraML.zip",
-            checksum: "08404657e18683355bae458a195f9631f4bce3266e8e0fc73f14982a164c6433"
+            url: "https://github.com/neuraml/NeuraMLSwiftFramework/releases/download/v0.0.3/NeuraML.zip",
+            checksum: "c611dc493d2a2f799ab44d3cce60cce8ede3b0e9dd9f0e1afe89839d6ed85dfd"
         )
     ]
 )
